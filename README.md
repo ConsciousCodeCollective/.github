@@ -1,0 +1,2 @@
+# .github
+Conscious Code Collective
